@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T13:35:33 IST" name="MyTestSuite" finished-at="2023-09-14T13:35:42 IST" duration-ms="9018">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T13:35:33 IST" name="MainExecutionTest" finished-at="2023-09-14T13:35:42 IST" duration-ms="9018">
+      <class name="pages.MainExecution">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pages.MainExecution@279fedbd]" started-at="2023-09-14T13:35:33 IST" name="setUp" finished-at="2023-09-14T13:35:37 IST" duration-ms="3816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="executeMain()[pri:0, instance:pages.MainExecution@279fedbd]" started-at="2023-09-14T13:35:37 IST" name="executeMain" finished-at="2023-09-14T13:35:41 IST" duration-ms="4043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeMain -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pages.MainExecution@279fedbd]" started-at="2023-09-14T13:35:41 IST" name="tearDown" finished-at="2023-09-14T13:35:42 IST" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.MainExecution -->
+    </test> <!-- MainExecutionTest -->
+  </suite> <!-- MyTestSuite -->
+</testng-results>
